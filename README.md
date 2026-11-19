@@ -27,16 +27,17 @@
 
 | # | Name | Student ID | Role |
 |---|------|-----------|------|
-| 1 | Barbara Elizabeth Korlekie Sackey | 22012722 | Project lead: coordination, deadlines, final integration |
-| 2 | Boadu-Acheampong Asante Yaw | 22152286 | Dataset: collect clean images, generate synthetic periodic noise |
-| 3 | Roselyn Sakyi | 22012206 | Fourier analysis: FFT, spectrum visualization, noise peak study |
-| 4 | Glorious James Okyere | 22031299 | Method A: manual notch filters (ideal, Butterworth, Gaussian) |
-| 5 | Lambert Klenam Nenemse | 22165472 | Method B: automatic peak detection and auto-notch |
-| 6 | Thomas Theophilus Kwasi Kutin | 22045470 | Evaluation: PSNR/SSIM and processing-time code |
-| 7 | Dzah Solomon Sampson Kofi | 22012447 | Experiments: parameter tuning, method comparison, real-world scans |
-| 8 | Kelvin Yemoh Odoi | 22012509 | Report writing |
-| 9 | Henry Ampomah | 22047836 | Presentation, plus optional demo app (Streamlit) |
-| 10 | Somuah Kofi Sasu | 22061652 | Testing, code cleanup, documentation, limitations |
+| 1 | Barbara Elizabeth Korlekie Sackey | 22012722 | Project Lead and Integrator |
+| 2 | Roselyn Sakyi | 22012206 | Dataset Curator |
+| 3 | Henry Ampomah | 22047836 | Noise Generator |
+| 4 | Samuel Ampadu | 22024585 | Fourier Analyst |
+| 5 | Kelvin Yemoh Odoi | 22012509 | Ideal Notch Filter Developer |
+| 6 | Boadu-Acheampong Asante Yaw | 22152286 | Butterworth and Gaussian Filter Developer |
+| 7 | Lambert Klenam Nenemse | 22165472 | Auto Peak Detection Developer |
+| 8 | Glorious James Okyere | 22031299 | Evaluation Engineer |
+| 9 | Somuah Kofi Sasu | 22061652 | Experiment and Comparison Analyst |
+| 10 | Dzah Solomon Sampson Kofi | 22012447 | Report and Documentation Lead |
+| 11 | Thomas Theophilus Kwasi Kutin | 22045470 | Presentation and Demo Lead |
 
 > Roles are a starting point and can be swapped to suit members' skills.
 
